@@ -1,5 +1,5 @@
 //
-// Created by Lakshya Mittal on 01-02-2022.
+// Created by Sahil Wakode.
 //
 
 #ifndef RUBIKS_CUBE_SOLVER_PATTERNDATABASE_H
